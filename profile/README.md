@@ -1,4 +1,4 @@
-# BARRIO 40
+# <img src="./favicon.png" width="30"/> BARRIO 40
 
 **Boutique software house. Sharp, purposeful digital tools.**
 
